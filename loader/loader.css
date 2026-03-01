@@ -3,7 +3,7 @@
     height: 120px;
     width: 120px;
     border-radius: 50%;
-    border-top: 20px solid goldenrod;
+    border-top: 20px solid grey;
     animation: spin 2s linear infinite;
 }
 
